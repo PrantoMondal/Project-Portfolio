@@ -3,7 +3,7 @@
 **A Japanese N5 Learning App**  
 _A beginner-friendly mobile app to master JLPT N5 vocabulary, grammar, kanji, and writing practice._
 
-![Banner](assets/images/menu.png)
+<img src="assets/images/menu.png" alt="App Banner" width="400"/>
 
 ---
 
@@ -28,84 +28,104 @@ _A beginner-friendly mobile app to master JLPT N5 vocabulary, grammar, kanji, an
 
 ### 🏠 Home & Menu
 
-| ![Home](assets/images/home.png) | ![Menu](assets/images/menu.png) |
-
-The home and menu screens provide easy navigation to all learning modules and track your study progress.
+<table>
+  <tr>
+    <td><img src="assets/images/home.png" alt="Home" width="200"/></td>
+    <td><img src="assets/images/menu.png" alt="Menu" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ### ✍️ Hiragana & Katakana
 
-| ![Hiragana](assets/images/hiragana.png) | ![Katakana](assets/images/katakana.png) |
-
-Master the Japanese writing system through guided stroke practice and flashcard-style review.
+<table>
+  <tr>
+    <td><img src="assets/images/hiragana.png" alt="Hiragana" width="200"/></td>
+    <td><img src="assets/images/katakana.png" alt="Katakana" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 🈶 Kanji Learning
 
-| ![Kanji 1](assets/images/kanji.png) | ![Kanji 2](assets/images/kanji2.png) | ![Kanji 3](assets/images/kanji3.png) |
-
-Learn JLPT N5-level kanji characters with stroke animations and example usage in context.
+<table>
+  <tr>
+    <td><img src="assets/images/kanji.png" alt="Kanji 1" width="180"/></td>
+    <td><img src="assets/images/kanji2.png" alt="Kanji 2" width="180"/></td>
+    <td><img src="assets/images/kanji3.png" alt="Kanji 3" width="180"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 📘 Grammar & Particles
 
-| ![Grammar](assets/images/grammar.png) | ![Particles](assets/images/particles.png) |
-
-Grammar lessons include examples and breakdowns of sentence patterns, while the particles section explains their functions in context.
+<table>
+  <tr>
+    <td><img src="assets/images/grammar.png" alt="Grammar" width="200"/></td>
+    <td><img src="assets/images/particles.png" alt="Particles" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 🧠 Lessons & Vocabulary
 
-| ![Lesson](assets/images/lesson.png) | ![Vocabulary](assets/images/vocabulary.png) |
-
-Each lesson is paired with curated vocabulary lists and practice sets, making learning structured and manageable.
+<table>
+  <tr>
+    <td><img src="assets/images/lesson.png" alt="Lesson" width="200"/></td>
+    <td><img src="assets/images/vocabulary.png" alt="Vocabulary" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 📖 Quiz & More Vocabulary
 
-| ![Quiz](assets/images/quiz.png) | ![Vocabulary 2](assets/images/vocabulary2.png) |
-
-Reinforce your learning with chapter-based quizzes and track your accuracy and progress.
+<table>
+  <tr>
+    <td><img src="assets/images/quiz.png" alt="Quiz" width="200"/></td>
+    <td><img src="assets/images/vocabulary2.png" alt="Vocabulary 2" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Flutter** – Used for building a smooth, cross-platform mobile experience on both Android and iOS
-- **GetX** – For efficient state management, routing, and reactive UI updates
-- **Hive** – Local data storage solution to save progress, scores, and offline access
-- **Custom Widgets** – Designed for tracing, quiz interaction, and vocabulary rendering
-- **Socket Integration (Planned)** – For future community quiz battles and leaderboards
+- **Flutter** – Cross-platform mobile app framework
+- **GetX** – Lightweight and powerful state management
+- **Hive** – Fast and secure local storage
+- **Custom Widgets** – For writing practice, quizzes, and learning modules
+- **Responsive Design** – Compatible across Android devices
 
 ---
 
 ## 👨‍💻 My Role
 
-As the sole developer of **Minna の Nihongo N5**, I handled:
+As the sole developer of **Minna の Nihongo N5**, I handled the entire development lifecycle:
 
-- 💡 UI/UX Design – Created intuitive navigation and learner-friendly visuals
-- 🧩 Module Development – Built all screens including grammar, vocabulary, and writing practice
-- 🔁 Logic Implementation – Managed state and quiz logic using GetX
-- 🗃️ Local Storage – Used Hive to store user progress and offline data
-- ✅ Testing – Conducted testing on various screen sizes and Android versions
+- 💡 Designed the app’s layout and UI
+- 🧩 Built learning modules for Hiragana, Katakana, Grammar, Vocabulary, and Kanji
+- 🧠 Implemented quiz logic and progress tracking
+- 🛠️ Integrated local storage using Hive
+- 🔍 Performed testing on multiple screen sizes
 
 ---
 
 ## 📦 Project Status
 
-✅ **Current Phase:** Feature-complete, under testing  
-🚀 **Upcoming:** Launch on Google Play Store  
-🎯 **Future Plans:** Add audio clips, spaced repetition, and multiplayer quiz battles
+✅ **Current Phase:** Feature-complete and undergoing testing  
+🚀 **Planned Release:** Google Play Store launch coming soon  
+🔜 **Next Steps:** Add audio pronunciation and spaced repetition system (SRS)
 
 ---
 
 ## 📬 Contact
 
-📧 prantomondal517@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/pranto-mondal-1a1307156/)  
-📱 Available for freelance or collaborative Japanese learning tools!
+📧 your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranto-mondal-1a1307156/)
+
+---
