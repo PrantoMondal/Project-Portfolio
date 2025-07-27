@@ -125,7 +125,7 @@ As the sole developer of **Minna の Nihongo N5**, I handled the entire developm
 
 ## 📬 Contact
 
-📧 your.email@example.com  
+📧 prantomondal517@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/pranto-mondal-1a1307156/)
 
 ---
